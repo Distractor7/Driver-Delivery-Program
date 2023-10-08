@@ -1,0 +1,41 @@
+Pseudo Code - Task 7
+
+// Create class containing object constructor for Customer.
+   // int orderNumber;
+   // String customerName;
+   // int contactNumber;
+   // String customerAddress;
+   // String city;
+   // String email;
+
+// Create class containing object constructor for Restaurant.
+   // String restaurantName;
+   // String restaurantLocation;
+   // int contactNumber;
+   // String orderInfo
+   // String specialInstructions;
+   // int total;
+
+// Capture customer information to create new customer object. (Create method that will print all customer object attributes to the console.)
+
+// Capture customer information to create new restaurant object. (Create method that will print all restaurant object attributes to the console.)
+
+// Create method that will traverse through list of drivers and add order to driver with the current lightest load.
+   // In for loop check each line to see if drivers location matches with the customers location (use variable from customer object, then if it does, add that line to a new array list that will be used to narrow down the drivers to the ones in that area and then check the last digit of each driver in the customers area to see who has the lightest load.
+   // 
+//Create method that matches customer order with driver with the least orders to complete.
+
+//Create method that then prints an invoice of the customers order/information to a new txt file.
+
+
+
+
+
+
+
+
+
+
+
+
+
